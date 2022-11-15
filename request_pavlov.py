@@ -4,7 +4,7 @@ import requests
 
 
 API_URL = "https://7012.deeppavlov.ai/model"
-API_TOKEN = "5686028461:AAHuPyaDIuMxgjpdpYhC0O77ksElcj0hnzc"
+API_TOKEN = "..."
 
 bot = telebot.TeleBot(API_TOKEN)
 

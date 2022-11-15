@@ -16,7 +16,7 @@ def load():
         films = json.load(fm)
 
 
-API_TOKEN = "5686028461:AAHuPyaDIuMxgjpdpYhC0O77ksElcj0hnzc"
+API_TOKEN = "..."
 
 bot = telebot.TeleBot(API_TOKEN)
 
